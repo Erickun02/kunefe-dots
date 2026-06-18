@@ -5,4 +5,6 @@ And i dont know how to make a script for this but when i find it i will upload t
 PACKAGES I ADVICE TO INSTALL ARE "asciiquarium" "nautilus" "fastfetch" "eww" "awww" and idk any more just install these 
 
 BY THE WAY THIS DOTS ARENT FINISHED AND IT CAN HAS SOME ISSUES I PLAN TO CHANGE THIS A LOT AND MAKE MORE COOL THINGS ON THIS SO DONT EXCEPT SEE REALLY COOL THINGS IN THIS VERSION THIS DOTS ARE STILL
-IN DEVELOPMENT AND I PLAN TO MAKE IT COOL AND USEFUL ALSO MINIMAL SO DONT EXCEPT SICK THINGS LIKE A PERSONA QUIKCSHELL !!!!!!1
+IN DEVELOPMENT AND I PLAN TO MAKE IT COOL AND USEFUL ALSO MINIMAL SO DONT EXCEPT SICK THINGS LIKE A PERSONA QUIKCSHELL !!!!!!! 
+
+also um waybar doesnt belongs to me lol i just configured it cuz i really dont have much time to code and i was busy trying quickshell and faied so i changed to waybar and just messed with a already existing config
