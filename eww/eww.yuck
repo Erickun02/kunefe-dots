@@ -1,0 +1,12 @@
+(defwindow test
+  :monitor 0
+  :geometry (geometry
+    :x "100px"
+    :y "100px"
+    :width "300px"
+    :height "100px")
+
+  (box
+    :orientation "v"
+    (label :text "WIRED")
+    (label :text "everyone is connected")))
